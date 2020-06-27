@@ -35,7 +35,6 @@ def fourth_challenge
           :attitude=>"worried"
         }
       ]
-      ]
    }
 }
 
